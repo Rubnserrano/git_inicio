@@ -1,0 +1,1 @@
+git status para saber la rama y si hay actualizaciones
