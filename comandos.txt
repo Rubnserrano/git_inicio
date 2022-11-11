@@ -15,3 +15,8 @@ desde master -> git merge develop
 
 git remote add origin https://github.com/Rubnserrano/git_inicio.git
 para conectar el vscode con el github
+
+para sincronizar las cosas nuevas al git y al github
+git add.
+git commit
+git push
