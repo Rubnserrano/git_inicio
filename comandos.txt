@@ -3,3 +3,8 @@ git add <file> para añadir un archivo
 git add. y actualiza todos
 git commit -m "primer commit"
 git tag -a v0.1 -m "version1" -> tagear estos cambios a una verrsion
+
+git checkout master <- rama final
+git checkout -b develop -> crear una rama develop
+git checkout master <- rama final
+git checkout -b develop -> crear una rama develop
