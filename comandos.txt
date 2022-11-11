@@ -8,3 +8,10 @@ git checkout master <- rama final
 git checkout -b develop -> crear una rama develop
 git checkout master <- rama final
 git checkout -b develop -> crear una rama develop
+
+en develop vamos haciendo cambios y cuando funcionen, los pasamos a la
+rama principal master ¿COMO?
+desde master -> git merge develop
+
+git remote add origin https://github.com/Rubnserrano/git_inicio.git
+para conectar el vscode con el github
